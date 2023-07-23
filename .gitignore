@@ -32,3 +32,6 @@ dist-ssr
 
 # Avoid your project being littered with annoying .DS_Store files!
 .prettierignore
+style-guide.md
+/src/assets/*
+.eslintrc.cjs
