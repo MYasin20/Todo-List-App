@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import TodoBody from "./TodoBody";
-import bgDesktopLight from "../src/images/bg-desktop-light.jpg";
-import bgMobileLight from "../src/images/bg-mobile-light.jpg";
+import bgDesktopLight from "../images/bg-desktop-light.jpg"
+import bgMobileLight from "../images/bg-mobile-light.jpg";
 
 
 const TodoApp = () => {
